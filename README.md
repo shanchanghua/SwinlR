@@ -261,5 +261,4 @@ This project is released under the Apache 2.0 license. The codes are based on [S
 - 邮件我：shanhe12@163.com 
 - 微信我： 加我*微信号：hua7yi, 备注：姓名-公司名-NLP* 进NLP交流群。
 
-<img src="https://github.com/shanchanghua/SwinlR/blob/main/docs/wechat.jpg" width="270" />
-<img src="https://github.com/shanchanghua/SwinlR/blob/main/docs/zs.jpg" width="230" />
+<img src="https://github.com/shanchanghua/SwinlR/blob/main/docs/wechat.jpg" width="270" /><img src="https://github.com/shanchanghua/SwinlR/blob/main/docs/zs.jpg" width="230" />
